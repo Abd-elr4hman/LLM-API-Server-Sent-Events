@@ -1,0 +1,16 @@
+langchain
+langchain_community
+langchain_core
+langchain_openai
+python-dotenv
+langserve[all]
+openai
+typing-extensions
+sse-starlette
+SQLAlchemy
+pymysql
+fastapi
+uvicorn[standard]
+pydantic
+requests
+cryptography
